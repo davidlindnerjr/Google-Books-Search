@@ -1,0 +1,17 @@
+.search-btn {
+    float: right;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #D3D3D3;
+  }
+  
+  .search-btn:hover {
+    background-color: #A9A9A9;
+    cursor: pointer;
+  }
+  
+  .search-btn:active {
+    transform: translateY(4px);
+    background-color: #A9A9A9;
+  }
